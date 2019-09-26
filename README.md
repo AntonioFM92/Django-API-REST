@@ -1,2 +1,2 @@
 # Django-API-REST
-API used in MyFoodList Kotlin application
+API to use in MyFoodList Kotlin app
